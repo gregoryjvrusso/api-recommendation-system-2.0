@@ -1,0 +1,9 @@
+{
+  "name": "api-recommendation-system",
+  "version": "1.0.0",
+  "description": "API para integração com o projeto Recommendation System",
+  "main": "index.js",
+  "repository": "git@github.com:gregoryjvrusso/api-recommendation-system-2.0.git",
+  "author": "Gregory Russo e Wesley Sabino",
+  "license": "MIT"
+}
